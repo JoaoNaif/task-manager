@@ -1,0 +1,11 @@
+/home/joaonaif/Documentos/Rocketseat/C#/TaskManager/TaskManager.Communication/bin/Debug/net8.0/TaskManager.Communication.deps.json
+/home/joaonaif/Documentos/Rocketseat/C#/TaskManager/TaskManager.Communication/bin/Debug/net8.0/TaskManager.Communication.dll
+/home/joaonaif/Documentos/Rocketseat/C#/TaskManager/TaskManager.Communication/bin/Debug/net8.0/TaskManager.Communication.pdb
+/home/joaonaif/Documentos/Rocketseat/C#/TaskManager/TaskManager.Communication/obj/Debug/net8.0/TaskManager.Communication.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaonaif/Documentos/Rocketseat/C#/TaskManager/TaskManager.Communication/obj/Debug/net8.0/TaskManager.Communication.AssemblyInfoInputs.cache
+/home/joaonaif/Documentos/Rocketseat/C#/TaskManager/TaskManager.Communication/obj/Debug/net8.0/TaskManager.Communication.AssemblyInfo.cs
+/home/joaonaif/Documentos/Rocketseat/C#/TaskManager/TaskManager.Communication/obj/Debug/net8.0/TaskManager.Communication.csproj.CoreCompileInputs.cache
+/home/joaonaif/Documentos/Rocketseat/C#/TaskManager/TaskManager.Communication/obj/Debug/net8.0/TaskManager.Communication.dll
+/home/joaonaif/Documentos/Rocketseat/C#/TaskManager/TaskManager.Communication/obj/Debug/net8.0/refint/TaskManager.Communication.dll
+/home/joaonaif/Documentos/Rocketseat/C#/TaskManager/TaskManager.Communication/obj/Debug/net8.0/TaskManager.Communication.pdb
+/home/joaonaif/Documentos/Rocketseat/C#/TaskManager/TaskManager.Communication/obj/Debug/net8.0/ref/TaskManager.Communication.dll

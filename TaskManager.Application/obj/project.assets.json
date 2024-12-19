@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "TaskManager.Communication/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TaskManager.Communication.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaskManager.Communication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskManager.Communication/1.0.0": {
+      "type": "project",
+      "path": "../TaskManager.Communication/TaskManager.Communication.csproj",
+      "msbuildProject": "../TaskManager.Communication/TaskManager.Communication.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "TaskManager.Communication >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/joaonaif/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/joaonaif/Documentos/Rocketseat/C#/TaskManager/TaskManager.Application/TaskManager.Application.csproj",
+      "projectName": "TaskManager.Application",
+      "projectPath": "/home/joaonaif/Documentos/Rocketseat/C#/TaskManager/TaskManager.Application/TaskManager.Application.csproj",
+      "packagesPath": "/home/joaonaif/.nuget/packages/",
+      "outputPath": "/home/joaonaif/Documentos/Rocketseat/C#/TaskManager/TaskManager.Application/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/joaonaif/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "/usr/lib/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/home/joaonaif/Documentos/Rocketseat/C#/TaskManager/TaskManager.Communication/TaskManager.Communication.csproj": {
+              "projectPath": "/home/joaonaif/Documentos/Rocketseat/C#/TaskManager/TaskManager.Communication/TaskManager.Communication.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.111/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
